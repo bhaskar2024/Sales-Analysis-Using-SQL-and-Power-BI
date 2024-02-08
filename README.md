@@ -11,3 +11,6 @@ The Pizza Sales dataset includes 48,620 rows and 12 columns, offering a detailed
 # Dashboard 
 ## Home Dashboard:
 ![Dashboard](https://github.com/bhaskar2024/Sales-Analysis-Using-SQL-and-Power-BI/blob/main/Pizza_Sales_Dashboard-images-1.jpg)
+
+## Best / Worst Sellers
+![Dashboard](https://github.com/bhaskar2024/Sales-Analysis-Using-SQL-and-Power-BI/blob/main/Pizza_Sales_Dashboard-images-2.jpg)
