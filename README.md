@@ -6,4 +6,4 @@ The project aims to understand our pizza sales data to enhance decision-making. 
 
 # Dataset
 The Pizza Sales dataset includes 48,620 rows and 12 columns, offering a detailed perspective on sales dynamics.
-[Download CSV File](https://github.com/bhaskar2024/Sales-Analysis-Using-SQL-and-Power-BI/blob/main/pizza_sales.csv)
+[pizza_sales.csv](https://github.com/bhaskar2024/Sales-Analysis-Using-SQL-and-Power-BI/blob/main/pizza_sales.csv)
